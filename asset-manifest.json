@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/orlando/static/css/main.e61d1af7.css",
+    "main.js": "/orlando/static/js/main.c24079ea.js",
+    "static/media/cv.pdf": "/orlando/static/media/cv.ee7cde9c9cc6e2719ba7.pdf",
+    "static/media/portfolio5.jpg": "/orlando/static/media/portfolio5.fde3b79468bb8ee7e0c7.jpg",
+    "static/media/me.png": "/orlando/static/media/me.5c0dbfe3da408aea4ae2.png",
+    "static/media/portfolio3.jpg": "/orlando/static/media/portfolio3.8fffd77f4847c168b296.jpg",
+    "static/media/portfolio4.jpg": "/orlando/static/media/portfolio4.aae1ea6650786cb20b5e.jpg",
+    "static/media/portfolio6.jpg": "/orlando/static/media/portfolio6.53a8ab12f6a824037a7c.jpg",
+    "static/media/portfolio2.jpg": "/orlando/static/media/portfolio2.40d73ee1b33bc170f7ea.jpg",
+    "static/media/portfolio1.jpg": "/orlando/static/media/portfolio1.3335b1f8606ea441b14b.jpg",
+    "static/media/about_me.png": "/orlando/static/media/about_me.ff3ce257c085c5cdb73c.png",
+    "static/media/avatar4.jpg": "/orlando/static/media/avatar4.973be51eef36874a91a0.jpg",
+    "index.html": "/orlando/index.html",
+    "main.e61d1af7.css.map": "/orlando/static/css/main.e61d1af7.css.map",
+    "main.c24079ea.js.map": "/orlando/static/js/main.c24079ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61d1af7.css",
+    "static/js/main.c24079ea.js"
+  ]
+}
